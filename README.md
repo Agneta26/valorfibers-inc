@@ -26,5 +26,4 @@ This project is ready for deployment on Vercel using the default Vite settings:
 
 ## Contact
 
-- Email: salessupplies7@gmail.com
-- Phone: +44 7498 713979
+
